@@ -1,3 +1,22 @@
 * {
-  background-color: #000
+  background-color: #000000;
+  font-family: Verdana;
+}
+
+h1 {
+  color: #FFFFFF;
+  font-weight: bold;
+  font-size: 50px;
+  text-align: center;
+}
+
+.downloadlink {
+  color: Aquamarine;
+  text-align: center;
+  font-size: 16px;
+}
+
+.video {
+  display: block;
+  margin: 0 auto;
 }
